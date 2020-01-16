@@ -1,0 +1,33 @@
+C:\Users\Derek Walkingstick\source\repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.deps.json
+C:\Users\Derek Walkingstick\source\repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.runtimeconfig.json
+C:\Users\Derek Walkingstick\source\repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.runtimeconfig.dev.json
+C:\Users\Derek Walkingstick\source\repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.dll
+C:\Users\Derek Walkingstick\source\repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.pdb
+C:\Users\Derek Walkingstick\source\repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.csprojAssemblyReference.cache
+C:\Users\Derek Walkingstick\source\repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.csproj.CoreCompileInputs.cache
+C:\Users\Derek Walkingstick\source\repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.AssemblyInfoInputs.cache
+C:\Users\Derek Walkingstick\source\repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.AssemblyInfo.cs
+C:\Users\Derek Walkingstick\source\repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.dll
+C:\Users\Derek Walkingstick\source\repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.pdb
+C:\Users\dwalkingstick\source\repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.deps.json
+C:\Users\dwalkingstick\source\repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.runtimeconfig.json
+C:\Users\dwalkingstick\source\repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.runtimeconfig.dev.json
+C:\Users\dwalkingstick\source\repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.dll
+C:\Users\dwalkingstick\source\repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.pdb
+C:\Users\dwalkingstick\source\repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.csprojAssemblyReference.cache
+C:\Users\dwalkingstick\source\repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.csproj.CoreCompileInputs.cache
+C:\Users\dwalkingstick\source\repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.AssemblyInfoInputs.cache
+C:\Users\dwalkingstick\source\repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.AssemblyInfo.cs
+C:\Users\dwalkingstick\source\repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.dll
+C:\Users\dwalkingstick\source\repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.pdb
+E:\Repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.deps.json
+E:\Repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.runtimeconfig.json
+E:\Repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.runtimeconfig.dev.json
+E:\Repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.dll
+E:\Repos\GetFileKeywords\GetFileKeywords\bin\Debug\netcoreapp2.1\GetFileKeywords.pdb
+E:\Repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.csprojAssemblyReference.cache
+E:\Repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.csproj.CoreCompileInputs.cache
+E:\Repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.AssemblyInfoInputs.cache
+E:\Repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.AssemblyInfo.cs
+E:\Repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.dll
+E:\Repos\GetFileKeywords\GetFileKeywords\obj\Debug\netcoreapp2.1\GetFileKeywords.pdb
